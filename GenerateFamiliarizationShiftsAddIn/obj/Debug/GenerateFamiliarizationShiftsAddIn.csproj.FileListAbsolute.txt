@@ -1,0 +1,42 @@
+c:\users\kevin\documents\visual studio 2015\Projects\GenerateFamiliarizationShiftsAddIn\GenerateFamiliarizationShiftsAddIn\bin\Debug\GenerateFamiliarizationShiftsAddIn.dll
+c:\users\kevin\documents\visual studio 2015\Projects\GenerateFamiliarizationShiftsAddIn\GenerateFamiliarizationShiftsAddIn\bin\Debug\GenerateFamiliarizationShiftsAddIn.pdb
+c:\users\kevin\documents\visual studio 2015\Projects\GenerateFamiliarizationShiftsAddIn\GenerateFamiliarizationShiftsAddIn\bin\Debug\GenerateFamiliarizationShiftsAddIn.dll.manifest
+c:\users\kevin\documents\visual studio 2015\Projects\GenerateFamiliarizationShiftsAddIn\GenerateFamiliarizationShiftsAddIn\bin\Debug\GenerateFamiliarizationShiftsAddIn.vsto
+c:\users\kevin\documents\visual studio 2015\Projects\GenerateFamiliarizationShiftsAddIn\GenerateFamiliarizationShiftsAddIn\bin\Debug\Microsoft.Office.Tools.Common.dll
+c:\users\kevin\documents\visual studio 2015\Projects\GenerateFamiliarizationShiftsAddIn\GenerateFamiliarizationShiftsAddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+c:\users\kevin\documents\visual studio 2015\Projects\GenerateFamiliarizationShiftsAddIn\GenerateFamiliarizationShiftsAddIn\bin\Debug\Microsoft.Office.Tools.dll
+c:\users\kevin\documents\visual studio 2015\Projects\GenerateFamiliarizationShiftsAddIn\GenerateFamiliarizationShiftsAddIn\bin\Debug\Microsoft.Office.Tools.Excel.dll
+c:\users\kevin\documents\visual studio 2015\Projects\GenerateFamiliarizationShiftsAddIn\GenerateFamiliarizationShiftsAddIn\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+c:\users\kevin\documents\visual studio 2015\Projects\GenerateFamiliarizationShiftsAddIn\GenerateFamiliarizationShiftsAddIn\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+c:\users\kevin\documents\visual studio 2015\Projects\GenerateFamiliarizationShiftsAddIn\GenerateFamiliarizationShiftsAddIn\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.xml
+c:\users\kevin\documents\visual studio 2015\Projects\GenerateFamiliarizationShiftsAddIn\GenerateFamiliarizationShiftsAddIn\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.xml
+c:\users\kevin\documents\visual studio 2015\Projects\GenerateFamiliarizationShiftsAddIn\GenerateFamiliarizationShiftsAddIn\bin\Debug\Microsoft.Office.Tools.Common.xml
+c:\users\kevin\documents\visual studio 2015\Projects\GenerateFamiliarizationShiftsAddIn\GenerateFamiliarizationShiftsAddIn\bin\Debug\Microsoft.Office.Tools.Excel.xml
+c:\users\kevin\documents\visual studio 2015\Projects\GenerateFamiliarizationShiftsAddIn\GenerateFamiliarizationShiftsAddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+c:\users\kevin\documents\visual studio 2015\Projects\GenerateFamiliarizationShiftsAddIn\GenerateFamiliarizationShiftsAddIn\obj\Debug\GenerateFamiliarizationShiftsAddIn.Properties.Resources.resources
+c:\users\kevin\documents\visual studio 2015\Projects\GenerateFamiliarizationShiftsAddIn\GenerateFamiliarizationShiftsAddIn\obj\Debug\GenerateFamiliarizationShiftsAddIn.SpecialAnalysisRibbon.resources
+c:\users\kevin\documents\visual studio 2015\Projects\GenerateFamiliarizationShiftsAddIn\GenerateFamiliarizationShiftsAddIn\obj\Debug\GenerateFamiliarizationShiftsAddIn.csproj.GenerateResource.Cache
+c:\users\kevin\documents\visual studio 2015\Projects\GenerateFamiliarizationShiftsAddIn\GenerateFamiliarizationShiftsAddIn\obj\Debug\GenerateFamiliarizationShiftsAddIn.dll
+c:\users\kevin\documents\visual studio 2015\Projects\GenerateFamiliarizationShiftsAddIn\GenerateFamiliarizationShiftsAddIn\obj\Debug\GenerateFamiliarizationShiftsAddIn.pdb
+C:\Users\Kevin\documents\visual studio 2015\Projects\GenerateFamiliarizationShiftsAddIn\GenerateFamiliarizationShiftsAddIn\obj\Debug\GenerateFamiliarizationShiftsAddIn.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Documents\GitHub\GenerateFamiliarizationShiftsAddIn\GenerateFamiliarizationShiftsAddIn\bin\Debug\GenerateFamiliarizationShiftsAddIn.dll
+C:\Users\Kevin\Documents\GitHub\GenerateFamiliarizationShiftsAddIn\GenerateFamiliarizationShiftsAddIn\bin\Debug\GenerateFamiliarizationShiftsAddIn.pdb
+C:\Users\Kevin\Documents\GitHub\GenerateFamiliarizationShiftsAddIn\GenerateFamiliarizationShiftsAddIn\bin\Debug\GenerateFamiliarizationShiftsAddIn.dll.manifest
+C:\Users\Kevin\Documents\GitHub\GenerateFamiliarizationShiftsAddIn\GenerateFamiliarizationShiftsAddIn\bin\Debug\GenerateFamiliarizationShiftsAddIn.vsto
+C:\Users\Kevin\Documents\GitHub\GenerateFamiliarizationShiftsAddIn\GenerateFamiliarizationShiftsAddIn\bin\Debug\Microsoft.Office.Tools.Common.dll
+C:\Users\Kevin\Documents\GitHub\GenerateFamiliarizationShiftsAddIn\GenerateFamiliarizationShiftsAddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Kevin\Documents\GitHub\GenerateFamiliarizationShiftsAddIn\GenerateFamiliarizationShiftsAddIn\bin\Debug\Microsoft.Office.Tools.dll
+C:\Users\Kevin\Documents\GitHub\GenerateFamiliarizationShiftsAddIn\GenerateFamiliarizationShiftsAddIn\bin\Debug\Microsoft.Office.Tools.Excel.dll
+C:\Users\Kevin\Documents\GitHub\GenerateFamiliarizationShiftsAddIn\GenerateFamiliarizationShiftsAddIn\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\Users\Kevin\Documents\GitHub\GenerateFamiliarizationShiftsAddIn\GenerateFamiliarizationShiftsAddIn\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Users\Kevin\Documents\GitHub\GenerateFamiliarizationShiftsAddIn\GenerateFamiliarizationShiftsAddIn\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.xml
+C:\Users\Kevin\Documents\GitHub\GenerateFamiliarizationShiftsAddIn\GenerateFamiliarizationShiftsAddIn\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.xml
+C:\Users\Kevin\Documents\GitHub\GenerateFamiliarizationShiftsAddIn\GenerateFamiliarizationShiftsAddIn\bin\Debug\Microsoft.Office.Tools.Common.xml
+C:\Users\Kevin\Documents\GitHub\GenerateFamiliarizationShiftsAddIn\GenerateFamiliarizationShiftsAddIn\bin\Debug\Microsoft.Office.Tools.Excel.xml
+C:\Users\Kevin\Documents\GitHub\GenerateFamiliarizationShiftsAddIn\GenerateFamiliarizationShiftsAddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\Kevin\Documents\GitHub\GenerateFamiliarizationShiftsAddIn\GenerateFamiliarizationShiftsAddIn\obj\Debug\GenerateFamiliarizationShiftsAddIn.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Documents\GitHub\GenerateFamiliarizationShiftsAddIn\GenerateFamiliarizationShiftsAddIn\obj\Debug\GenerateFamiliarizationShiftsAddIn.Properties.Resources.resources
+C:\Users\Kevin\Documents\GitHub\GenerateFamiliarizationShiftsAddIn\GenerateFamiliarizationShiftsAddIn\obj\Debug\GenerateFamiliarizationShiftsAddIn.SpecialAnalysisRibbon.resources
+C:\Users\Kevin\Documents\GitHub\GenerateFamiliarizationShiftsAddIn\GenerateFamiliarizationShiftsAddIn\obj\Debug\GenerateFamiliarizationShiftsAddIn.csproj.GenerateResource.Cache
+C:\Users\Kevin\Documents\GitHub\GenerateFamiliarizationShiftsAddIn\GenerateFamiliarizationShiftsAddIn\obj\Debug\GenerateFamiliarizationShiftsAddIn.dll
+C:\Users\Kevin\Documents\GitHub\GenerateFamiliarizationShiftsAddIn\GenerateFamiliarizationShiftsAddIn\obj\Debug\GenerateFamiliarizationShiftsAddIn.pdb
